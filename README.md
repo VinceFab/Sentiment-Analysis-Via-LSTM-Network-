@@ -8,8 +8,8 @@ We use Tflearn (which runs on Tensorflow) to build and train the net.
 
 ## Files
 
-* [IntegratedCons.txt] (https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/IntegratedCons.txt): contains the negatively connoted comments
-* [IntegratedPros.txt] (https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/IntegratedPros.txt): contains the postitively connoted comments
+* [IntegratedCons.txt](https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/IntegratedCons.txt): contains the negatively connoted comments
+* [IntegratedPros.txt](https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/IntegratedPros.txt): contains the postitively connoted comments
 * [LSTM_NLP.py](https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/LSTM_NLP.py): Python implementation of the classifier
 
 ## Credits
