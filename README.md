@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This short code implements a LSTM network whose task is to classify Amazon reviews as positive or negative
+This short code implements a LSTM network whose task is to classify Amazon reviews as positive or negative.
 We use Tflearn (which runs on Tensorflow) to build and train the net. 
 
 
