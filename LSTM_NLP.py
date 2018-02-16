@@ -2,6 +2,8 @@
 """
 Created on Mon Nov 27 13:49:09 2017
 @author: Faber Vincent
+This short code implements a simple/shallow LSTM network whose task is to classify 
+Amazon reviews as positive or negative. We use Tflearn (which runs on Tensorflow) to build and train the net.
 Credits: https://github.com/tflearn/tflearn/blob/master/examples/nlp/lstm.py and Stack Overflow among other
 """
 
