@@ -13,5 +13,5 @@ We use Tflearn (which runs on Tensorflow) to build and train the net.
 * [LSTM_NLP.py](https://github.com/VinceFab/Sentiment-Analysis-Via-LSTM-Network-/blob/master/LSTM_NLP.py): Python implementation of the classifier
 
 ## Credits
-Tflean github: https://github.com/tflearn/tflearn/blob/master/examples/nlp/lstm.py
-Stack Overflow, as always :)
+* Tflean github: https://github.com/tflearn/tflearn/blob/master/examples/nlp/lstm.py
+* Stack Overflow, as always :)
