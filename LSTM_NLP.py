@@ -21,7 +21,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 ###############################################################################
 
-#changes made on myTestBranch48 NEW
+#
 
 ###############################################################################
 #load/process Cons comments
