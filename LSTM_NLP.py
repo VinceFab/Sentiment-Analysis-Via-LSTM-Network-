@@ -21,14 +21,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 ###############################################################################
 
-#some comment
-a=1
-print(a)
-
-#oh, another one
-b=1
-print(b)
-
 ###############################################################################
 #load/process Cons comments
 f = open('IntegratedCons.txt','r')
